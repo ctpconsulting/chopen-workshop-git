@@ -6,7 +6,7 @@ Git workshop prepared for [ch/open 2013](http://www.ch-open.ch/wstage/workshop-t
 Setup
 ===================
 
-This workshop does not require a lot of tooling in place. No need for build tools, IDEs and stuff.
+This workshop does not require a lot of tooling in place. No need for build tools, IDEs and stuff. 
 
 As we will be juggling with Git quite a bit during hands-on lab we strongly recommend sandboxed environment, so you won't do any harm to your daily system of choice.
 We are also planning to practice some shell kung-fu therefore some Linux distrubtion might be a good choice.
@@ -41,3 +41,8 @@ After running these commands you can verify that you have git installed by invok
 $ git --version
 git version 1.8.4
 ```
+
+GitHub account
+===================
+
+Part of the labs will be based on working with remote repositories. We strongly encourage you to create GitHub account before the workshop, so we can use this great platform to learn how to collaborate using Git.
