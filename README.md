@@ -3,6 +3,8 @@ chopen-workshop-git
 
 Git workshop prepared for [ch/open 2013](http://www.ch-open.ch/wstage/workshop-tage/2013/aktuelles-programm-2013/).
 
+I  hope we get great reviews!
+
 Setup
 ===================
 
